@@ -1,4 +1,4 @@
-# CSS_Set_Intro3
+# CSS_Set_Intro2
 
 ### Exercise 
 Use the html file aboutMe.html to match the SimpleText.png image.
